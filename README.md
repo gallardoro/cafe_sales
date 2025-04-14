@@ -1,4 +1,4 @@
-# 🧼 Dirty Café Sales - Data Cleaning & Analysis Project
+# ☕ Dirty Café Sales - Data Cleaning & Analysis Project
 
 ## 📊 Overview
 
