@@ -62,7 +62,12 @@ An Excel dashboard was also created to provide a business-friendly overview of t
 
 ## 📂 Repository Structure
 
-dirty-cafe-sales/ │ ├── data/ # Original and cleaned datasets ├── notebooks/ # Jupyter notebooks with full analysis ├── dashboard/ # Excel dashboard file ├── images/ # Exported visualizations (if any) ├── README.md # This file!
+dirty-cafe-sales/
+│
+├── Data/                # Original and cleaned datasets
+├── Notebooks/           # Jupyter notebooks with full analysis
+├── src/                 # Python modules
+├── README.md            # This file!
 
 ---
 
