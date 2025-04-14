@@ -62,13 +62,14 @@ An Excel dashboard was also created to provide a business-friendly overview of t
 
 ## 📂 Repository Structure
 
-```bash
+```plaintext
 dirty-cafe-sales/
 │
 ├── data/                # Original and cleaned datasets
 ├── notebooks/           # Jupyter notebooks with full analysis
 ├── src/                 # Python modules used for processing the data
 ├── README.md            # This file!
+```
 
 ---
 
@@ -88,4 +89,4 @@ dirty-cafe-sales/
 
 - Dataset from [Kaggle](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training/data)
 
-- Created by **Luis Gallardo**
+- Created by [**Luis Gallardo**](https://github.com/gallardoro)
