@@ -1,0 +1,4 @@
+Into the folder named /src you'll find the python module functions.
+
+This module has functions for calculating the mode and mean, such as a function to automatize 
+data replacement processes.
